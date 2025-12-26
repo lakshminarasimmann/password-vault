@@ -156,11 +156,6 @@ This mirrors **enterprise password hygiene practices**.
 
 ---
 
-## 📈 Resume-Ready Description
-
-Built a secure offline password manager in Python using AES-256 encryption and PBKDF2 key derivation, featuring auto-locking vault access, password auditing, and a Raspberry Pi–based security appliance architecture.
-
----
 
 ## 🚀 Future Enhancements
 
